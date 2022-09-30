@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068882050755",
+    "project_id": "spstuff",
+    "storage_bucket": "spstuff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068882050755:android:fce71a24b750042c33ac76",
+        "android_client_info": {
+          "package_name": "com.spstuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068882050755-h28kmv25gini8ovg8d8bmdqhgd6j2v49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9CGwkd8crn9JX8jz9dBnQNjbZLkJB60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068882050755-h28kmv25gini8ovg8d8bmdqhgd6j2v49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

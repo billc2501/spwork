@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "spworkanother",
+    "slug": "spworkanother",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
